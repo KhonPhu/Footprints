@@ -2,8 +2,8 @@ The "footprints.spl" file is the database of the website. Please import before r
 
 And the "footprints.sql" must be save as below in the "db.php" file.
 
-<?php
+  <?php
 
-$con = mysqli_connect("localhost","root","","footprints");
+  $con = mysqli_connect("localhost","root","","footprints");
 
-?> 
+  ?> 
